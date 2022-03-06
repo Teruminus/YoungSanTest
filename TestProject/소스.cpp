@@ -4,7 +4,7 @@ using namespace std;
 
 void main()
 {
-	cout << "Hello, world!" << endl;
+	cout << "얼ㅇ널너렌ㄹㅇ래" << endl;
 	cout << "나라의 노예" << endl;
 
 }
